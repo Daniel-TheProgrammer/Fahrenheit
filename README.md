@@ -1,2 +1,2 @@
-# Fahrenheit
-This converts temperature from degree celsius to fahrenheit in c
+# Fahrenheit/Degree Celsius
+COnversion from Degree celsius to Fahrenheit and Fahrenheit to Degrees Celsius

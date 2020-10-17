@@ -1,5 +1,5 @@
 //C program to convert Celsius to Fahrenheit by Daniel the Programmer
-//Code Da
+//Code Dai
 #include <stdio.h>
  
 int main()

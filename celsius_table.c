@@ -1,5 +1,5 @@
 //Created BY Daniel theProgrammer
-//COde_Daily
+//COde_
 #include<stdio.h>
 int main(){
 	int fahr,celsius;

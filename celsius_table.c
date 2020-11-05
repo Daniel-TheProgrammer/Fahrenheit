@@ -1,5 +1,5 @@
 //Created BY Daniel theProgrammer
-//CO
+
 #include<stdio.h>
 int main(){
 	int fahr,celsius;

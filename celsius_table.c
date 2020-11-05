@@ -1,4 +1,4 @@
-//Created BY Daniel theProgrammer
+//Created By Daniel theProgrammer
 
 #include<stdio.h>
 int main(){
